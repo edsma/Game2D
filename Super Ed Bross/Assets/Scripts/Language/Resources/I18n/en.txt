@@ -1,0 +1,5 @@
+﻿Exit= exit
+Play= play
+PlayGame= Score 
+GameOver= Game Over
+MaxScore= Max Score 

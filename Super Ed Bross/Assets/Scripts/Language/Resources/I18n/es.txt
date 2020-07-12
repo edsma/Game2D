@@ -1,0 +1,5 @@
+﻿Exit= Salir
+Play= Jugar
+PlayGame= Puntuación
+GameOver= Juego acabado
+MaxScore= Puntuación maxima
